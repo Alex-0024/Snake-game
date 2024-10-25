@@ -4,3 +4,5 @@ Snake game
 * Control of snake - W S A D, Exit - Ecs.
 * To win the level you need to collect 5 symbols 'O', the game has 3 levels (these terms are subject to change, look at #define).
 * The more collected 'O', the faster the speed of the snake.
+
+![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_0.png)
