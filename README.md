@@ -8,4 +8,4 @@ Snake game
 ![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_0.png)
 ![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_1.png)
 ![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_2.png)
-![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow 3.png)
+![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_3.png)
