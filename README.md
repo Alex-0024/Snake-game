@@ -6,3 +6,6 @@ Snake game
 * The more collected 'O', the faster the speed of the snake.
 
 ![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_0.png)
+![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_1.png)
+![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow_2.png)
+![Image alt](https://github.com/Alex-0024/Snake-game/blob/main/SnakeShow 3.png)
